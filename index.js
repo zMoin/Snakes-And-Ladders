@@ -50,7 +50,7 @@ drawBoard();
 };
 
 //two players
-players = [{name: "P1",position: 0,color: "gold"},{name: "P2",position: 0,color: "brown"}];
+players = [{name: "P1",position: 0,color: "orange"},{name: "P2",position: 0,color: "pink"}];
 
 let currentPlayerTurn = 0;
 
